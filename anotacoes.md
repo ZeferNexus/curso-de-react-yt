@@ -307,12 +307,12 @@
         * Add new > project > Install the GitHub application for the accounts you wish to Import from to continue > Import Git Repository > achar o curso-dereact-yt > clicar em `Import` > editar nada > depoly > ao finalizar clicar em `Continue to Dashboard`.
         * Parabéns! Agora ele gera o link para uso fora da nossa máquina. Só clicar em dominio e copiar e mandar para alguem.
 * Obs.: Quando fazer alugma alteração no seu projeto precisa-se fazer o commit novamente:
-        * Rodar no terminal do VS Code:
-            ```git
-            git add .
-            git commit -m "Atualização de anotacoes.md e Tasks.jsx"
-            git push origin main
-            ```
-        * O Vercel vai fazer um auto update / deploy.
+    * Rodar no terminal do VS Code:
+        ```git
+        git add .
+        git commit -m "Atualização de anotacoes.md e Tasks.jsx"
+        git push origin main
+        ```
+    * O Vercel vai fazer um auto update / deploy.
 
 ---
